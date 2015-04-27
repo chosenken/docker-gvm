@@ -1,4 +1,4 @@
-FROM jdk-8:latest
+FROM chosenken/jdk-8
 MAINTAINER chosenken@gmail.com
 ENTRYPOINT ["gvm-exec"]
 
